@@ -2,6 +2,10 @@
 # Upsun demo project configuration
 #######################################################################################################################
 # Application configuration.
+foo: bar
+
+  hello wrong config
+
 applications:    
     # App 1: Frontend (JS)
     frontend:
